@@ -17,7 +17,7 @@ const questions = [
     name: 'description',
     message: 'Provide a short description of your project:',
   },
-  // Include additional questions as needed
+
 ];
 
 // Create a function to write README file
